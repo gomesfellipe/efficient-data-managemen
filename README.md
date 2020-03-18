@@ -1,4 +1,4 @@
-# efficient-data-managemen
+# efficient-data-management
 
 Projeto baseado no excelente post: <https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/efficient-data-r/>
 
